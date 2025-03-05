@@ -8,5 +8,5 @@
 <br>
 <img src="https://github.com/Djvr33/Projeto-responsividade/blob/main/Captura%20tela%20inteira.jpeg?raw=true"/>
 <br>
-
+<img src="https://github.com/Djvr33/Projeto-responsividade/blob/main/Captura%20de%20tela%20celular.jpeg?raw=true"/>
 
